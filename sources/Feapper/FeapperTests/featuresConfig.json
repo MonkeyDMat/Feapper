@@ -1,0 +1,9 @@
+{
+    "features": [{
+                 "id": "Feature",
+                 "enabled": true
+                 },{
+                 "id": "OtherFeature",
+                 "enabled": false
+                 }]
+}
